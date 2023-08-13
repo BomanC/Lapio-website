@@ -13,7 +13,6 @@ li {color: pink;}
     width: 200px;
     height: 100px;
     background-color: red;
-    position: relative;
 }
 
 .second-box-container {
@@ -22,7 +21,7 @@ li {color: pink;}
     height: 100px;
     background-color: yellow;
     left: 250px;
-    position: center;
+    float: right;
 }
 
 .third-box-container {
@@ -30,5 +29,4 @@ li {color: pink;}
     width: 200px;
     height: 100px;
     background-color: green;
-    position: top right;
 }
