@@ -14,7 +14,10 @@ li {color: pink;}
     height: 100px;
     background-color: red;
     margin: 10px;
-    position: static;   
+    position: static;
+    border-style: solid;
+    border-width: 10px;
+    border-color: green;
 }
 
 .second-box-container {
@@ -39,7 +42,7 @@ li {color: pink;}
 }
 
 #boxtext {
-    text-align: center;
+    text-align: justify;
     padding: center;
     color: black;
 }
