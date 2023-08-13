@@ -9,13 +9,14 @@ li {color: pink;}
 #punainen-kohta {color: red;}
 
 .first-box-container {
+    color: black;
     width: 200px;
     height: 100px;
     background-color: red;
-    position: absolute;
 }
 
 .second-box-container {
+    color: black;
     width: 200px;
     height: 100px;
     background-color: yellow;
@@ -24,9 +25,8 @@ li {color: pink;}
 }
 
 .third-box-container {
+    color: black;
     width: 200px;
     height: 100px;
     background-color: green;
-    left: 400px;
-    position: relative top;
 }
