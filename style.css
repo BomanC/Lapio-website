@@ -22,17 +22,15 @@ li {color: pink;}
     height: 100px;
     background-color: yellow;
     margin: 10px;
-    position: relative;
-    left: 250px;
+    position: static
 }
 
 .third-box-container {
     width: 200px;
     height: 100px;
-    background-color: blue;
+    background-color: green;
     margin: 10px;
-    position: relative;
-    left: 500px;
+    position: static
 }
 
 #box {
@@ -42,5 +40,6 @@ li {color: pink;}
 
 #boxtext {
     text-align: center;
+    padding: center;
     color: black;
 }
