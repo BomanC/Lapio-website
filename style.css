@@ -1,6 +1,7 @@
 p {background-color: red;}
 
-ol {list-style-type: circle;}
+ol {list-style-type: circle;
+color: black;}
 
 h2 {background-color: yellow;}
 
