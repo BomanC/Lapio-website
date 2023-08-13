@@ -9,21 +9,18 @@ li {color: pink;}
 #punainen-kohta {color: red;}
 
 .first-box-container {
-    color: black;
     width: 200px;
     height: 100px;
     background-color: red;
 }
 
 .second-box-container {
-    color: black;
     width: 200px;
     height: 100px;
     background-color: yellow;
 }
 
 .third-box-container {
-    color: black;
     width: 200px;
     height: 100px;
     background-color: green;
@@ -35,6 +32,9 @@ li {color: pink;}
   
   #box {
     float: left;
-    width: 250px;
-    padding: 50px;
+    width: 33,33%;
+    padding: 5px; /* if you want space between the images */
+    margin: 20px;
+    text-align: center;
+    color: black;
   }
