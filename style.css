@@ -1,7 +1,9 @@
-p {background-color: red;}
+h1 {color: blue;}
 
-ol {list-style-type: circle; fill: black;}
+p {color: brown;}
 
-h2 {background-color: yellow;}
+ol {list-style-type: circle; fill: pink;}
+
+li {color: pink;}
 
 #punainen-kohta {color: red;}
