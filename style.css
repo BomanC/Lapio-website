@@ -14,13 +14,13 @@ li {color: pink;}
     height: 100px;
     background-color: red;
     margin: 10px;
-    position: absolute;   
+    position: static;   
 }
 
 .second-box-container {
     width: 200px;
     height: 100px;
-    background-color: yellow;
+    background-color: violet;
     margin: 10px;
     position: static
 }
