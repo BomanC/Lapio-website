@@ -33,3 +33,8 @@ li {color: pink;}
     position: relative;
     left: 250px;
 }
+
+#box {
+    text-align: center;
+    color: black;
+}
