@@ -12,12 +12,16 @@ li {color: pink;}
     width: 200px;
     height: 100px;
     background-color: red;
+    margin: 20px;
+    position: absolute;   
 }
 
 .second-box-container {
     width: 200px;
     height: 100px;
     background-color: yellow;
+    margin: 20px;
+    float: left;
 }
 
 .third-box-container {
@@ -25,20 +29,3 @@ li {color: pink;}
     height: 100px;
     background-color: green;
 }
-
-* {
-    box-sizing: content-box;
-  }
-  
-  #box {
-    float: left;
-    width: 33,33%;
-    padding: 5px; /* if you want space between the images */
-    margin: 20px;
-    text-align: center;
-    color: black;
-  }
-
-  footer {
-    float: inline-end;
-  }
