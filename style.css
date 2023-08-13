@@ -8,10 +8,22 @@ li {color: pink;}
 
 #punainen-kohta {color: red;}
 
-.container {
+.first-box-container {
     width: 200px;
     height: 100px;
     background-color: red;
-    margin: 10px;
+    margin: auto;
     padding: 10px;
+}
+
+.second-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+}
+
+.third-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: green;
 }
