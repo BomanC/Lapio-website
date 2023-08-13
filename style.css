@@ -12,14 +12,12 @@ li {color: pink;}
     width: 200px;
     height: 100px;
     background-color: red;
-    position: absolute;
 }
 
 .second-box-container {
     width: 200px;
     height: 100px;
     background-color: yellow;
-    position: relative;
 }
 
 .third-box-container {
