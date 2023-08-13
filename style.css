@@ -21,7 +21,7 @@ li {color: pink;}
     height: 100px;
     background-color: yellow;
     left: 250px;
-    position: relative top;
+    position: relative;
 }
 
 .third-box-container {
