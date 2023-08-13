@@ -1,9 +1,17 @@
 h1 {color: blue;}
 
-p {color: brown;}
+.leipateksti {color: brown;}
 
 ol {list-style-type: circle; fill: pink;}
 
 li {color: pink;}
 
 #punainen-kohta {color: red;}
+
+.container {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    margin: 10px;
+    padding: 10px;
+}
