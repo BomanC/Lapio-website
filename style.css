@@ -18,10 +18,10 @@ li {color: pink;}
 }
 
 .second-box-container {
-    background-color: violet;
+    background-color: red;
     position: absolute;
     top: 20px;
-    left: 200px;
+    left: 250px;
     border-color: yellow;
 }
 
@@ -30,16 +30,16 @@ li {color: pink;}
     position: absolute;
     top: 20px;
     left: 400px;
+    border-style: solid;
+    border-width: 10px;
     border-color: red;
+    text-align: center;
+    color: blue;
+    text-transform: capitalize;
 }
 
 #box {
     width: 150px;
     height: 100px;
     margin: 10px;
-    text-align: center;
-    color: blue
-    border-style: solid;
-    border-width: 10px;
-    text-transform: capitalize;
 }
