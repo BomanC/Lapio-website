@@ -28,9 +28,6 @@ li {color: pink;}
     border-style: solid;
     border-width: 10px;
     border-color: green;
-    text-align: center;
-    color: blue;
-    text-transform: capitalize;
 }
 
 .second-box-container {
@@ -44,9 +41,6 @@ li {color: pink;}
     border-style: solid;
     border-width: 10px;
     border-color: red;
-    text-align: center;
-    color: blue;
-    text-transform: capitalize;
 }
 
 .third-box-container {
@@ -60,6 +54,9 @@ li {color: pink;}
     border-style: solid;
     border-width: 10px;
     border-color: red;
+}
+
+#boxtext {
     text-align: center;
     color: blue;
     text-transform: capitalize;
