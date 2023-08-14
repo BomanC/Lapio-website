@@ -54,4 +54,6 @@ li {color: pink;}
     margin: 10px;
 }
 
-footer {float: inline-end;}
+footer {
+    clear: both;
+}
