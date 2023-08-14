@@ -53,3 +53,5 @@ li {color: pink;}
     height: 150px;
     margin: 10px;
 }
+
+footer {float: inline-end;}
