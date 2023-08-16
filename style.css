@@ -93,7 +93,12 @@ footer {
 }
 
 .golf_ulkoasu{
-    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    color: aqua;
 }
 
 .golf_sisältö{
