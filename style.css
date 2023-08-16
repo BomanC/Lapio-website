@@ -87,3 +87,39 @@ footer {
     clear: both;
     color: limegreen;
 }
+
+.name {
+    color: #333;
+}
+
+.golf_ulkoasu{
+    color: #333;
+}
+
+.golf_sisältö{
+    color: #333;
+}
+
+.golf_otsikko {
+    color: #333;
+}
+
+.golf_nav {
+    color: #333;
+}
+
+.golf_lista{
+    color: #333;
+}
+
+.golf_aloittaja{
+    color: #333;
+}
+
+.golf_teksti{
+    color: #333;
+}
+
+.golf_alapalkki {
+    color: #333;
+}
